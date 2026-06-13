@@ -1,0 +1,5 @@
+mkdir 文件夹名
+touch 文件夹名/.gitkeep   # 放一个占位文件
+git add .
+git commit -m "add folder"
+git push
